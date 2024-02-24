@@ -1,4 +1,4 @@
-image{
+img{
     width: 200px;
-    border: 13px chartreuse;
+    border: 3px solid tomato; border-radius: 5px;
 }
